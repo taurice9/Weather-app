@@ -1,2 +1,4 @@
 # Weather-app
-Weather app created with HTML, CSS &amp; JavaScript utilizing API's for accurate real world weather reports
+Weather app created with HTML, CSS &amp; JavaScript utilizing APIs & JSON for accurate real-world weather reports
+
+Live Preview: https://lively-scone-38d099.netlify.app/

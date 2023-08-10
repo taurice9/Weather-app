@@ -56,7 +56,7 @@ search.addEventListener('click', () => {
                     break;
 
                 default:
-                    image.src = '404.png';
+                    image.src = '';
             }
 
             temperature.innerHTML = `${parseInt(json.main.temp)}<span>°C</span>`;
